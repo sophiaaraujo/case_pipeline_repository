@@ -1,0 +1,163 @@
+brewery_type,state,count
+brewpub,Arizona,0
+brewpub,California,0
+brewpub,Colorado,1
+brewpub,Delaware,0
+brewpub,Idaho,0
+brewpub,Illinois,0
+brewpub,Indiana,0
+brewpub,Iowa,0
+brewpub,Laois,0
+brewpub,Maryland,0
+brewpub,Massachusetts,0
+brewpub,Michigan,0
+brewpub,Minnesota,0
+brewpub,Mississippi,0
+brewpub,Nevada,0
+brewpub,New York,2
+brewpub,North Carolina,1
+brewpub,Ohio,1
+brewpub,Oklahoma,0
+brewpub,Oregon,2
+brewpub,Pennsylvania,0
+brewpub,South Carolina,1
+brewpub,Texas,0
+brewpub,Vermont,0
+brewpub,Virginia,0
+brewpub,Washington,1
+brewpub,Wisconsin,0
+closed,Arizona,0
+closed,California,1
+closed,Colorado,0
+closed,Delaware,0
+closed,Idaho,0
+closed,Illinois,0
+closed,Indiana,0
+closed,Iowa,0
+closed,Laois,0
+closed,Maryland,0
+closed,Massachusetts,0
+closed,Michigan,0
+closed,Minnesota,0
+closed,Mississippi,0
+closed,Nevada,0
+closed,New York,0
+closed,North Carolina,0
+closed,Ohio,0
+closed,Oklahoma,0
+closed,Oregon,0
+closed,Pennsylvania,0
+closed,South Carolina,0
+closed,Texas,0
+closed,Vermont,0
+closed,Virginia,0
+closed,Washington,1
+closed,Wisconsin,0
+contract,Arizona,0
+contract,California,0
+contract,Colorado,0
+contract,Delaware,0
+contract,Idaho,0
+contract,Illinois,0
+contract,Indiana,0
+contract,Iowa,0
+contract,Laois,0
+contract,Maryland,1
+contract,Massachusetts,0
+contract,Michigan,0
+contract,Minnesota,0
+contract,Mississippi,0
+contract,Nevada,0
+contract,New York,0
+contract,North Carolina,0
+contract,Ohio,0
+contract,Oklahoma,0
+contract,Oregon,0
+contract,Pennsylvania,0
+contract,South Carolina,0
+contract,Texas,0
+contract,Vermont,0
+contract,Virginia,0
+contract,Washington,0
+contract,Wisconsin,0
+large,Arizona,0
+large,California,1
+large,Colorado,1
+large,Delaware,0
+large,Idaho,1
+large,Illinois,0
+large,Indiana,0
+large,Iowa,0
+large,Laois,0
+large,Maryland,0
+large,Massachusetts,0
+large,Michigan,0
+large,Minnesota,0
+large,Mississippi,0
+large,Nevada,0
+large,New York,0
+large,North Carolina,0
+large,Ohio,0
+large,Oklahoma,0
+large,Oregon,4
+large,Pennsylvania,0
+large,South Carolina,0
+large,Texas,0
+large,Vermont,0
+large,Virginia,0
+large,Washington,0
+large,Wisconsin,0
+micro,Arizona,3
+micro,California,2
+micro,Colorado,1
+micro,Delaware,1
+micro,Idaho,0
+micro,Illinois,1
+micro,Indiana,3
+micro,Iowa,1
+micro,Laois,1
+micro,Maryland,0
+micro,Massachusetts,1
+micro,Michigan,1
+micro,Minnesota,3
+micro,Mississippi,1
+micro,Nevada,1
+micro,New York,0
+micro,North Carolina,1
+micro,Ohio,1
+micro,Oklahoma,1
+micro,Oregon,0
+micro,Pennsylvania,1
+micro,South Carolina,0
+micro,Texas,2
+micro,Vermont,1
+micro,Virginia,1
+micro,Washington,0
+micro,Wisconsin,2
+proprietor,Arizona,0
+proprietor,California,0
+proprietor,Colorado,1
+proprietor,Delaware,0
+proprietor,Idaho,0
+proprietor,Illinois,0
+proprietor,Indiana,0
+proprietor,Iowa,0
+proprietor,Laois,0
+proprietor,Maryland,0
+proprietor,Massachusetts,0
+proprietor,Michigan,0
+proprietor,Minnesota,0
+proprietor,Mississippi,0
+proprietor,Nevada,0
+proprietor,New York,0
+proprietor,North Carolina,0
+proprietor,Ohio,0
+proprietor,Oklahoma,0
+proprietor,Oregon,0
+proprietor,Pennsylvania,0
+proprietor,South Carolina,0
+proprietor,Texas,0
+proprietor,Vermont,0
+proprietor,Virginia,0
+proprietor,Washington,0
+proprietor,Wisconsin,0
